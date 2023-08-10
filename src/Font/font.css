@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Pony Regular';
+    src: url('./Pony.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Các quy tắc sử dụng font chữ */
+body {
+    font-family: 'Pony Regular', sans-serif;
+}
